@@ -1,4 +1,5 @@
 <img align ="center" width="1920px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
+<h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate Freelance frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIwMDM0MzA5YjM1Y2M4MzM3ZGE1NjgxYzMxZjNkZmZhMWZlOWY5MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">	
 
