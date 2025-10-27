@@ -1,10 +1,5 @@
 <img align ="center" width="1920px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate Cyber Security enthusiast and Freelance Web Developer from Turkey</h3>
-<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgwYjc5MDgxYjFjNmE5MjhmN2U2YmFkNmIwZDFkZTI0MGE3Y2Q4MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMk1875Pq59yR3q7nE/giphy.gif">	
-
-<img align ="center" width="1920px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
-<h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Offensive Security Researcher & Red Team Enthusiast from Turkey</h3>
 <img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgwYjc5MDgxYjFjNmE5MjhmN2U2YmFkNmIwZDFkZTI0MGE3Y2Q4MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMk1875Pq59yR3q7nE/giphy.gif">	
 
@@ -23,9 +18,11 @@ Saldırı ve savunma odaklı bir bakış açısıyla aşağıdaki alanlarda bilg
 * **Tersine Mühendislik ve Exploit Geliştirme:** Zararlı yazılımların analizi ve assembly diline temel düzeyde aşinalık ile **sıfırıncı gün (0-day) zafiyetlerine PoC (Proof of Concept) geliştirme temelleri**.
 
 #### 💻 Yazılım Geliştirme (Red Team Odaklı):
-* **PHP & Laravel:** Hızlı prototipleme, otomasyon script'leri ve keşfedilen zafiyetler için **Proof of Concept (PoC) araçları geliştirmek** amacıyla PHP ve Laravel'i etkin bir şekilde kullanıyorum.
-* **Veritabanı:** MySQL, PostgreSQL
+* **C# / .NET & EF:** Uygulama mantığını anlamak ve **kaynak kod analizine** dayalı zafiyet tespiti için C#, .NET ve **Entity Framework (ORM)** konularında bilgi sahibiyim.
+* **PHP:** Web uygulamalarının temelini anlamak ve keşfedilen zafiyetler için hızlı **PoC script'leri** geliştirmek amacıyla kullanıyorum.
+* **Veritabanı:** MySQL, PostgreSQL, MongoDB, SQLlite
+
 
 #### 🔧 Araçlar ve Teknolojiler:
-`Wireshark` | `Nmap` | `Metasploit` (temel) | `Burp Suite` (temel)
-`Git & GitHub` | `Docker` (temel düzeyde)
+`Wireshark` | `Nmap` | `Metasploit` | `Burp Suite` 
+`Git & GitHub` | `Docker`
