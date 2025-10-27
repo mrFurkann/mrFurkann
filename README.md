@@ -1,7 +1,7 @@
 <img align ="center" width="1920px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Offensive Security Researcher & Red Team Enthusiast from Turkey</h3>
-<img align="right" alt="Hacking" width="400" src="https://i.imgur.com/k2p9f7T.gif">	
+<img align="right" alt="Hacking" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl4Y2t6dzRxdjZ6a253ajMwb3h2YTZtcmx2YTdyd2t2NG11a3JyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="mrfurkann" /> </p>
 
