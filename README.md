@@ -1,17 +1,14 @@
 <img align ="center" width="1920px" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate Freelance frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIwMDM0MzA5YjM1Y2M4MzM3ZGE1NjgxYzMxZjNkZmZhMWZlOWY5MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">	
+<h3 align="center">A passionate Cyber Security enthusiast and Freelance Web Developer from Turkey</h3>
+<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgwYjc5MDgxYjFjNmE5MjhmN2U2YmFkNmIwZDFkZTI0MGE3Y2Q4MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMk1875Pq59yR3q7nE/giphy.gif">	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="mrfurkann" /> </p>
 
-- 🔭 I’m currently working on **JS and PHP**
-
-- 🌱 I’m currently learning **PHP , JS , MySQL**
-
-- 👯 I’m looking to collaborate on **Freelancing**
-
-- ⚡ Fun fact **I am Funny**
+- 🔭 I’m currently diving deep into **Web Penetration Testing and Network Security**
+- 🌱 I’m currently learning **OSINT, Exploit Development, and Advanced PHP/JS Security best practices**
+- 👯 I’m looking to collaborate on **Cyber Security projects, Bug Bounties, and Freelance Web Security audits**
+- ⚡ Fun fact **I transform caffeine into code (and sometimes vulnerabilities!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
