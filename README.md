@@ -20,7 +20,7 @@ Saldırı ve savunma odaklı bir bakış açısıyla aşağıdaki alanlarda bilg
 #### 💻 Yazılım Geliştirme (Red Team Odaklı):
 * **C# / .NET & EF:** Uygulama mantığını anlamak ve **kaynak kod analizine** dayalı zafiyet tespiti için C#, .NET ve **Entity Framework (ORM)** konularında bilgi sahibiyim.
 * **PHP:** Web uygulamalarının temelini anlamak ve keşfedilen zafiyetler için hızlı **PoC script'leri** geliştirmek amacıyla kullanıyorum.
-* **Veritabanı:** MySQL, PostgreSQL, **MongoDB**, **SQLlite**
+* **Veritabanı:** MySQL **, **SQLlite**
 
 #### 🔧 Araçlar ve Teknolojiler:
 `Wireshark` | `Nmap` | `Metasploit` | `Burp Suite` |
