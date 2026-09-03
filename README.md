@@ -110,7 +110,7 @@ Advanced training in:
 * Penetration Testing
 * Malware Analysis
 * Reverse Engineering
-* 
+  
 ---
 
 ## 🎯 Current Focus
