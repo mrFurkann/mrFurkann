@@ -81,61 +81,6 @@ I use software development as a foundation for understanding application interna
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ VulnWeb — Web Application Security Laboratory
-
-**PHP · SQLite · Docker**
-
-A deliberately vulnerable web application laboratory built for practicing web application security.
-
-Includes vulnerabilities such as:
-
-* XSS
-* SQL Injection
-* IDOR
-* Broken Authentication
-
-The project focuses on understanding attack vectors, vulnerability mechanisms and secure coding approaches.
-
----
-
-### 🎯 CTF Hack Platform
-
-**Go · HTML · CSS · JavaScript · Docker**
-
-A team project focused on building a scenario-based cybersecurity training and CTF platform.
-
-Key features include:
-
-* 🐳 On-demand isolated Docker environments
-* 🔒 Ephemeral challenge containers
-* 📦 Docker Hub image integration
-* 🏆 Real-time leaderboard
-* 🎖️ Badges & gamification
-* 👥 Role-Based Access Control (RBAC)
-* 🛠️ Administrative management panel
-
----
-
-### 🤖 AI-Powered Marketing Content Platform
-
-**Python · FastAPI · React · PostgreSQL · SQLAlchemy · Alembic · Docker**
-
-An AI-powered platform that analyzes product images and generates marketing content.
-
-Responsibilities and technologies include:
-
-* Backend & system architecture
-* Asynchronous content processing pipeline
-* Image analysis and structured data extraction
-* PostgreSQL database architecture
-* SQLAlchemy & Alembic migrations
-* Docker / Docker Compose
-* Interactive campaign management workflows
-
----
-
 ## 🧰 Security Tools
 
 `Burp Suite` `Nmap` `Wireshark` `Metasploit` `Hashcat` `Ghidra` `IDA` `x32dbg`
@@ -165,15 +110,7 @@ Advanced training in:
 * Penetration Testing
 * Malware Analysis
 * Reverse Engineering
-
----
-
-## 📜 Certifications
-
-* **Certified Associate Penetration Tester (HV-CAPT-BNNMK5YT)** — Hackviser
-* **Türkiye Siber Vatan Programı — Advanced Level**
-* **Siber Vatan Alanya Bootcamp — Participation Certificate**
-
+* 
 ---
 
 ## 🎯 Current Focus
