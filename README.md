@@ -8,9 +8,6 @@ Application Security Enthusiast | Backend Developer | Offensive Security Researc
 
 <img align="right" alt="Hacking" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl4Y2t6dzRxdjZ6a253ajMwb3h2YTZtcmx2YTdyd2t2NG11a3JyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=mrfurkann&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-sec-01" />
-</p>
 
 ## 👨‍💻 About Me
 
